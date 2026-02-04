@@ -1,19 +1,20 @@
 # python-portfolio
 My Python programs
 
-# Plastic Free
+# AI Sleep to Grades
 
 ## Problem
-Many plastic bottles and other objects have been in the sea, on the ground, and everywhere around. (hey that rhymed) Polution has been effecting the world and is causing global warming.
+Many students don't get enough of sleep which causes students to get lower grades.
 
 ## Solution
-My product converts plastic into fertilizer using heat to degrade the plastic into nitrogen-rich fertilizer.
+My AI creates a response that predicts the grade depending on the amount of sleep a student got.
 
 ## Tools
-3d modeled the product.
+Text to type
+Data sets
 
 ## Results
-The product produced fertilizer, which helped plants grow much better and of a high quality.
+The AI predicted a test score of 60.43142857142857 for a student who studied 6 hours and slept 8 hours.
 
 ## Learning
-Something that needs to change is plastic. We need more biodegradable plastic so plastic bottles aren't clogging up beautiful places like the beach and the cities.
+Sleep can heavly effect students abilities to work.
